@@ -10,4 +10,5 @@ In the dynamic landscape of the lending industry, the importance of constructing
 <img width="504" alt="Screenshot 2024-02-01 at 14 35 57" src="https://github.com/trungle14/composite_credit_score_policy_strategy/assets/143222481/f102115b-eab0-44a5-b1eb-67ee84c63c35">
 
 By incorporating both internal and external credit data, lenders can achieve a more accurate assessment of credit risk. Internal scores reflect a customer's history with the institution, including account management and loyalty, while external scores offer insights into the individual's broader financial activities and obligations. This combination reduces the reliance on a single source of information, mitigating biases and improving the precision of credit evaluations.
-If you are still interest and curious how the general concept is please have a look of the [presentation](Composite credit score - Credit risk strategy enhancement.pdf)
+If you are still interested and curious about how the general concept is, please have a look at the [presentation](Composite credit score - Credit risk strategy enhancement.pdf).
+
